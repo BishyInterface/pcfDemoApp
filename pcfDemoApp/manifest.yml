@@ -1,4 +1,4 @@
 name: pcfDemoApp
 path: target/pcfDemoApp-0.0.1-SNAPSHOT.jar
 buildpack: java_buildpack
-memory: 500MB
+memory: 1GB
